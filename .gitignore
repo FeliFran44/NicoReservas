@@ -1,0 +1,15 @@
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Backup
+_backup*/
+*.backup
+*.bak
+
+# Logs
+*.log
